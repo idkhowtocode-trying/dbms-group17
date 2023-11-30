@@ -1,0 +1,17 @@
+- connect to database
+----enable cross check
+- continue view from add to cart	
+- create User model
+- create Shopping Cart model
+- create complex filter for [F]
+- create admin access
+----analytics/report
+----orders to be sent out
+-create registration function for new login (user only)
+-- update github
+--keyword extraction for search
+-- search include name and/or ID
+-- add to cart has item + spec + quantity
+----search ID  
+-----print results
+-------confirm + number of item
