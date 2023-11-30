@@ -1,6 +1,7 @@
 package model;
 
-public class User {
+import java.sql.SQLException;
+public class User //implements //SQLModel {
     private String userID;
     private String password;
 
